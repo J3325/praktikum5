@@ -140,6 +140,9 @@ public class PegawaiBeraksi {
 }
 ```
 **Output**
+
+![doc](img/o1.png)
+
 # Sistem pembelian online
 class Produk
 ```java
@@ -240,7 +243,7 @@ public class Makanan extends Produk {
     }
 }
 ```
-Class KeranjanBelanja
+Class KeranjangBelanja
 ```java
 package keranjang;
 
@@ -314,3 +317,4 @@ public class Main {
 }
 ```
 Output
+![doc](img/o2.png)
